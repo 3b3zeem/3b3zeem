@@ -5,6 +5,12 @@ I'm Ahmed Mostafa, a passionate Software Engineer and Full Stack Developer speci
 About Me
 With a keen interest in full-stack development, I am continuously enhancing my skills in both front-end and back-end technologies. I enjoy solving challenging problems and am always eager to learn new technologies that can help me grow as a developer. Based in Egypt, I am focused on building impactful web solutions.
 
+---
+
+![](https://komarev.com/ghpvc/?username=3b3zeem&color=blue&style=flat-square)
+
+---
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmed.mostafa.224722) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmedmostafa__22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedmostafa2247) 
 
