@@ -10,8 +10,8 @@
 
 ## 👨‍💻 About Me
 
-- 💼 1.5+ years of experience in backend development  
-- 🛠️ Strong in Node.js (Express), REST APIs, and MongoDb  
+- 💼 1+ years of experience in frontend development  
+- 🛠️ Strong in React.js, REST APIs, and Tailwind css  
 - 🚀 Built and deployed 25+ projects — real-time apps, e-commerce, dashboards  
 - 🎯 Goal: Join a global product-based company and grow as a senior frontend / full-stack engineer  
 - 💡 Passionate about interactive design, front-end frameworks, and full stack collaboration
