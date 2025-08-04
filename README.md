@@ -41,6 +41,8 @@
 - Working on **Le Souk**, an e-commerce platform enabling users to browse and purchase products with a seamless shopping experience.
 - Built the **101-Leaders**  luxury magazine website, delivering engaging content focused on leadership and luxury topics with a user-friendly interface.
 - Created the **INeed** landing page, designed to promote a product or service and drive user engagement through effective calls to action.
+- Developed the **BGL Pharma** website, a professional platform showcasing pharmaceutical products and services, 
+designed with a clean, user-friendly interface to enhance accessibility and drive engagement.
 
 ---
 
