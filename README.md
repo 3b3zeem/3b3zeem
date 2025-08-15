@@ -24,7 +24,7 @@
 | Domain | Tools |
 |--------|-------|
 | Backend | Node.js, Express |
-| Frontend | React, Angular (Basics) |
+| Frontend | React, Next, Angular (Basics) |
 | Frontend Libraries | TypeScript, Redux, Tailwind CSS, Material UI |
 | DBs | MySQL, MongoDB |
 | Real-Time | Socket.IO |
